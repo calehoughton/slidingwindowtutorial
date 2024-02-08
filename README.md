@@ -1,4 +1,4 @@
-I am using data from the Phenoweb transect (see https://phenoweb.org) to look at when and how temperature affects the timing of the spring caterpillar peak and blue tit breeding. The data includes 44 sites sampled over 8 years, so we’ll need to think about pseudoreplication as well.
+I am using data from the Phenoweb transect (see https://phenoweb.org) to look at when and how temperature affects the timing of the spring caterpillar peak and blue tit breeding. The data includes 44 sites sampled over 8 years.
 
 Here I:
 
